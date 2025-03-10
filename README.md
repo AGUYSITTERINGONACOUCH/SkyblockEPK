@@ -6,3 +6,8 @@ visit a eaglercraft 1.5.2 site.
  click the "open EPK file" option.
  choose the skyblock file.
  play.
+<details>
+<summary>I figured out how to make a dropdown</summary>
+<br>
+ It's Cool
+</details>
